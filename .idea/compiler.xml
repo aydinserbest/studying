@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="saucedemo" />
-        <module name="amazonTest" />
+        <module name="studyinguser" />
         <module name="studying" />
+        <module name="amazonTest" />
       </profile>
     </annotationProcessing>
   </component>
